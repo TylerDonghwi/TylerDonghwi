@@ -1,16 +1,17 @@
-### Hi, I'm Tyler, a.k.a Donghwi 👋 
+## Hi, I'm Tyler, a.k.a Donghwi 👋 
 
 <!-- Followers Count and Views Count -->
 
 ![](https://img.shields.io/github/followers/TylerDonghwi?label=Followers&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/TylerDonghwi)
 
-<!-- Banner -->
+<!-- Banner 
 
 <img src="" alt="banner that says Tyler Kim - software engineering student at the University of Auckland, with a picture of Tyler Kim">
 
+-->
 <!-- Social Links -->
-
+#### Where to Connect
 <a href="https://www.linkedin.com/in/tyler-donghwi-kim-124410208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 <!-- Profile Blurb -->
