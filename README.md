@@ -1,9 +1,9 @@
-### Hi, I'm Michelle 👋 
+### Hi, I'm Tyler, a.k.a Donghwi 👋 
 
 <!-- Followers Count and Views Count -->
 
 ![](https://img.shields.io/github/followers/TylerDonghwi?label=Followers&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/codess-aus)
+![Profile views](https://gpvc.arturio.dev/TylerDonghwi)
 
 
 <!--
