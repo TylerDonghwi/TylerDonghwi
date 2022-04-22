@@ -16,7 +16,12 @@
 
 <!-- Profile Blurb -->
 
-I'm a software engineering student who is passionate about learning new skills to eventually give back to the community. I love coding with Java and Javascript - I build projects using them for fun! I'm currently focusing on learning various skills on web dev and python to expand my perspective and knowledge.
+
+- 💻 I’m a second year software engineering student
+- 📈 I’m always learning new skills. I'm currently focusing on learning various skills on web dev, Java and python! I love coding with Java and Javascript - I build projects using them for fun!
+- 📊 I’m looking to collaborate with other compsci/software engineering students and developers 
+
+
 
 ## Technical Certifications
 
@@ -61,5 +66,5 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 <img align="left" width="150" height="150" src="https://github.com/TylerDonghwi/TylerDonghwi/blob/master/assets/octomichelle1.gif"></a>
 <img align="left" width="150" height="150" src="https://github.com/TylerDonghwi/TylerDonghwi/blob/master/assets/twiliowearamask.gif"></a>
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/codess_aus?style=social)](https://twitter.com/codess_aus)
+
 
