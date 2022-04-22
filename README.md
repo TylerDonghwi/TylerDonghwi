@@ -52,4 +52,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDonghwi&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" />
 <br />
 <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TylerDonghwi&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for TylerDonghwi" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TylerDonghwi&count_private=true&show_icons=true&theme=radical&layout=compact" ?count_private=true alt="GitHub Stats for TylerDonghwi" /></p>
