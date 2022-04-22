@@ -11,13 +11,12 @@
 
 <!-- Social Links -->
 
-  <a href="https://www.instagram.com/tyler_donghwi._.kim/" target="_blank "><img src="https://img.shields.io/badge/-Instagram-d3003f?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tyler-donghwi-kim-124410208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 
 <!-- Profile Blurb -->
 
-I'm a Developer Engagment Lead who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons. I am an Open Source Advocate. I am focused on Student and Data Science & AI Communities.
+I'm a software engineering student who is passionate about learning new skills to eventually give back to the community. I love coding with Java and Javascript - I build projects using them for fun! I'm currently focusing on learning various skills on web dev and python to expand my perspective and knowledge.
 
 ## Technical Certifications
 
