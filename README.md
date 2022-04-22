@@ -22,9 +22,16 @@
 - 📊 I’m looking to collaborate with other compsci/software engineering students and developers 
 ---
 
-### Languages and Tools (in order of expertise):
+### Latest Projects
+
+<a href="https://github.com/TylerDonghwi/ATM-Machine-Simulator">Java ATM Machine Simulation Project</a>
+<a href="https://github.com/TylerDonghwi/ATM-Machine-Simulator">Java Burger Shop Simulation Project</a>
+<a href="https://github.com/TylerDonghwi/Visual-Cryptography">MatLab Visual Cryptography Project</a>
+<a href="https://github.com/TylerDonghwi/Container-yard">C Container Yard Simulation Project</a>
 
 
+---
+### Languages and Tools:
 
 <img align="left" alt="Java" height="30px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
 <img align="left" alt="HTML" height="30px" src="https://i.stack.imgur.com/PgcSR.png" />
