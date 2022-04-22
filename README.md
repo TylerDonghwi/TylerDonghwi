@@ -11,8 +11,8 @@
 
 <!-- Social Links -->
 
-  <a href="https://www.instagram.com/tyler_donghwi._.kim/"><img src="https://img.shields.io/badge/-Instagram-d3003f?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/tyler-donghwi-kim-124410208/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/tyler_donghwi._.kim/" target="_blank "><img src="https://img.shields.io/badge/-Instagram-d3003f?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tyler-donghwi-kim-124410208/" target="_blank "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 
 <!-- Profile Blurb -->
