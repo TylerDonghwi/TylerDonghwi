@@ -14,8 +14,11 @@
 #### Where to Connect
 <a href="https://www.linkedin.com/in/tyler-donghwi-kim-124410208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
-<!-- Profile Blurb -->
+---
 
+### About Myself
+
+<!-- Profile Blurb -->
 
 - 💻 I’m a second year software engineering student
 - 📈 I’m always learning new skills. I'm currently focusing on learning various skills on web dev, Java and python!
