@@ -7,7 +7,7 @@
 
 <!-- Banner -->
 
-<img src="" alt="banner that says Tyler Kim - software engineering student at the University of Auckland, with a picture of Tyler Kim">
+<img src="https://github.com/TylerDonghwi/TylerDonghwi/blob/main/PictureOfMyself.jpg" alt="banner that says Tyler Kim - software engineering student at the University of Auckland, with a picture of Tyler Kim">
 
 <!-- Social Links -->
 
