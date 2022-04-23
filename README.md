@@ -31,7 +31,6 @@
   <li><a href="https://github.com/TylerDonghwi/ATM-Machine-Simulator">Java ATM Machine Simulation Project</a></li>
   <li><a href="https://github.com/SOFTENG281-2022/assignment-2-TylerDonghwi">Java Burger Shop Simulation Project</a></li>
   <li><a href="https://github.com/TylerDonghwi/Clock-App">Clock App - under development</a></li>
-</ul>
   <li><a href="https://github.com/TylerDonghwi/Visual-Cryptography">MatLab Visual Cryptography Project</a></li>
   <li><a href="https://github.com/TylerDonghwi/Container-yard">C Container Yard Simulation Project</a></li>
 </ul>
@@ -55,7 +54,7 @@
 <br />
 <!--dashboards-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDonghwi&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDonghwi&layout=compact&langs_count=8&theme=radical" alt="Languages msandfor uses" />
 <br />
 <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TylerDonghwi&count_private=true&show_icons=true&theme=radical&layout=compact" ?count_private=true alt="GitHub Stats for TylerDonghwi" /></p>
