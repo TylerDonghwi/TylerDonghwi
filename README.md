@@ -29,11 +29,12 @@
 ### Latest Projects
 <ul>
   <li><a href="https://github.com/TylerDonghwi/ATM-Machine-Simulator">Java ATM Machine Simulation Project</a></li>
+  <li><a href="https://github.com/TylerDonghwi/GUI-Text-Editor">Java GUI Text Editor - under development</a></li>
    <li><a href="https://github.com/TylerDonghwi/100-CSS-Challenge">100 Day CSS Challenge</a></li>
+  
   <li><a href="https://github.com/SOFTENG281-2022/assignment-2-TylerDonghwi">Java Burger Shop Simulation Project</a></li>
   <li><a href="https://github.com/TylerDonghwi/Clock-App">Clock App - under development</a></li>
-  <li><a href="https://github.com/TylerDonghwi/Visual-Cryptography">MatLab Visual Cryptography Project</a></li>
-  <li><a href="https://github.com/TylerDonghwi/Container-yard">C Container Yard Simulation Project</a></li>
+
 </ul>
 
 ---
