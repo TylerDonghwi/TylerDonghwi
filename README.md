@@ -21,8 +21,8 @@
 <!-- Profile Blurb -->
 
 - 💻 I’m a second year software engineering student
-- 📈 I’m always learning new skills. I'm currently focusing on learning various skills on web dev, Java and python!
-- 📕 I love coding with Java and Javascript - I build projects using them for fun!
+- 📈 I’m always learning new skills. I'm currently focusing on learning various skills on TypeScipt and Java!
+- 📕 I love coding with Java and TypeScript - I like building small projects using them for fun!
 - 📊 I’m looking to collaborate with other compsci/software engineering students and developers 
 ---
 
