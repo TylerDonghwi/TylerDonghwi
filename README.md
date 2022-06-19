@@ -32,7 +32,7 @@
   <li><a href="https://github.com/SOFTENG281-2022/assignment-3-TylerDonghwi">Java Blackjack Simulation Project</a></li>
    <li><a href="https://github.com/TylerDonghwi/unit-converter">JavaScript Unit Converter</a></li>
   <li><a href="https://github.com/TylerDonghwi/GUI-Text-Editor">Java GUI Text Editor</a></li>
-  <li><a href="https://github.com/SOFTENG281-2022/assignment-2-TylerDonghwi">Java Burger Shop Simulation Project</a></li>
+  <li><a href="https://github.com/TylerDonghwi/Music-Sound-App">JavaScript Sound Player App</a></li>
   <li><a href="https://github.com/TylerDonghwi/Clock-App">JavaScript Clock App - under development</a></li>
 
 
