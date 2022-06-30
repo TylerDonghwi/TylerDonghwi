@@ -61,6 +61,8 @@
 <br/>
 <!--dashboards-->
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tylerDonghwi&theme=nightowl" alt="TylerDonghwi's GitHub streak"/>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDonghwi&layout=compact&langs_count=8&theme=radical" alt="Languages msandfor uses" />
 <br />
 <br />
