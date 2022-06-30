@@ -61,9 +61,9 @@
 <br/>
 <!--dashboards-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tylerDonghwi&theme=nightowl" alt="TylerDonghwi's GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tylerDonghwi&theme=radical" alt="TylerDonghwi's GitHub streak"/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDonghwi&layout=compact&langs_count=8&theme=radical" alt="Languages msandfor uses" />
 <br />
 <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TylerDonghwi&count_private=true&show_icons=true&theme=radical&layout=compact" ?count_private=true alt="GitHub Stats for TylerDonghwi" /></p>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TylerDonghwi&count_private=true&show_icons=true&theme=radical&layout=compact" ?count_private=true alt="GitHub Stats for TylerDonghwi" /></p> -->
