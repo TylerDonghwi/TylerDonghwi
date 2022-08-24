@@ -4,9 +4,9 @@
 ![](https://img.shields.io/github/followers/TylerDonghwi?label=Followers&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/TylerDonghwi)
 
+-->
 
-
-#### Where to Connect
+#### Connect me on LinkedIn!
 <a href="https://www.linkedin.com/in/tyler-donghwi-kim-124410208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 ---
@@ -19,28 +19,17 @@
 - 📊 I’m looking to collaborate with other compsci/software engineering students and developers 
 ---
 
-
-### Latest Projects
-<ul>
-  <li><a href="https://github.com/TylerDonghwi/ATM-Machine-Simulator">Java ATM Machine Simulation Project</a></li>
-  <li><a href="https://github.com/SOFTENG281-2022/assignment-3-TylerDonghwi">Java Blackjack Simulation Project</a></li>
-   <li><a href="https://github.com/TylerDonghwi/unit-converter">JavaScript Unit Converter</a></li>
-  <li><a href="https://github.com/TylerDonghwi/GUI-Text-Editor">Java GUI Text Editor</a></li>
-  <li><a href="https://github.com/TylerDonghwi/Music-Sound-App">JavaScript Sound Player App</a></li>
-  <li><a href="https://github.com/TylerDonghwi/Clock-App">JavaScript Clock App - under development</a></li>
-
-
-</ul>
-
--->
 ### Languages and Tools
 
 <img align="left" alt="Java" height="30px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
 <img align="left" alt="HTML" height="30px" src="https://i.stack.imgur.com/PgcSR.png" />
 <img align="left" alt="CSS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="Tailwind CSS" height="30px" src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" />
 <img align="left" alt="Javascript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="React" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="TypeScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+<img align="left" alt="TypeScript" height="30px" src="https://www.techmagic.co/blog/content/images/2021/11/nodejs-logo-1.svg" />
+<img align="left" alt="TypeScript" height="30px" src="https://expressjs.com/images/express-facebook-share.png" />
 <img align="left" alt="python" height="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="MatLab" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 <img align="left" alt="R" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />
@@ -57,8 +46,5 @@
 <!--dashboards-->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylerDonghwi&theme=radical" alt="TylerDonghwi's GitHub streak"/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDonghwi&layout=compact&langs_count=8&theme=radical" alt="Languages msandfor uses" />
-<br />
-<br />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TylerDonghwi&count_private=true&show_icons=true&theme=radical&layout=compact" ?count_private=true alt="GitHub Stats for TylerDonghwi" /></p> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TylerDonghwi&count_private=true&show_icons=true&theme=radical&layout=compact" ?count_private=true alt="GitHub Stats for TylerDonghwi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDonghwi&layout=compact&langs_count=8&theme=radical" alt="Languages msandfor uses" />
