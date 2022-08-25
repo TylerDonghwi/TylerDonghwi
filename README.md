@@ -28,8 +28,6 @@
 <img align="left" alt="Javascript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="React" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="TypeScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-<img align="left" alt="TypeScript" height="30px" src="https://www.techmagic.co/blog/content/images/2021/11/nodejs-logo-1.svg" />
-<img align="left" alt="TypeScript" height="30px" src="https://expressjs.com/images/express-facebook-share.png" />
 <img align="left" alt="python" height="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="MatLab" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 <img align="left" alt="R" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />
@@ -39,6 +37,15 @@
 <img align="left" alt="Azure" height="30px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
 -->
 <img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br/>
+<br/>
+<h3> Currently Learning (or at least trying to) </h3>
+<img align="left" alt="React" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="TypeScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+<img align="left" alt="Node.js" height="30px" src="https://www.techmagic.co/blog/content/images/2021/11/nodejs-logo-1.svg" />
+<img align="left" alt="ExpressJS" height="30px" src="https://expressjs.com/images/express-facebook-share.png" />
+<img align="left" alt="C++" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 
 <br/>
 <br/>
