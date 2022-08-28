@@ -40,7 +40,7 @@
 
 <br/>
 <br/>
-<h3> Currently Learning (or at least trying to) </h3>
+<h3> Currently Learning </h3>
 <img align="left" alt="React" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="TypeScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" alt="Node.js" height="30px" src="https://www.techmagic.co/blog/content/images/2021/11/nodejs-logo-1.svg" />
