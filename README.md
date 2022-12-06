@@ -18,6 +18,7 @@
 <img align="left" alt="HTML" height="30px" src="https://i.stack.imgur.com/PgcSR.png" />
 <img align="left" alt="CSS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="Tailwind CSS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
+<img align="left" alt="Bootstrap" height="30px" src="https://user-images.githubusercontent.com/98932343/205799864-bdcc3582-5b48-45c6-a6f0-87d82169d2a0.png" />
 <img align="left" alt="Javascript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="React" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="TypeScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
@@ -28,6 +29,8 @@
 <img align="left" alt="Java" height="30px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
 <img align="left" alt="Javascript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="TypeScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+<img align="left" alt="Node.js" height="30px" src="https://www.techmagic.co/blog/content/images/2021/11/nodejs-logo-1.svg" />
+<img align="left" alt="ExpressJS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 <img align="left" alt="python" height="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
 <br/>
@@ -41,10 +44,6 @@
 <img align="left" alt="Overleaf" height="30px" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png" />
 
 <br/>
-
-<h3> Currently Learning </h3>
-<img align="left" alt="Node.js" height="30px" src="https://www.techmagic.co/blog/content/images/2021/11/nodejs-logo-1.svg" />
-<img align="left" alt="ExpressJS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 
 <br/><br/>
 
