@@ -3,10 +3,11 @@
 <h3>Connect me on LinkedIn!</h3>
 <a href="https://www.linkedin.com/in/tyler-donghwi-kim-124410208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
+<!--
 <h2>About Myself</h2>
 
-- 💻 I’m a second year software engineering student
-- 📈 I’m always learning new skills. I'm currently focusing on learning various skills on ReactJS and Node.js!
+- 💻 I’m a penultimate software engineering student at the University of Auckland
+- 📈 I’m always learning new skills. I'm currently focusing on learning various skills on MERN stack!
 - 📕 I like creating small programming projects for fun!
 - 📊 I’m looking to collaborate with other compsci/software engineering students and developers 
 <br/>
@@ -47,6 +48,7 @@
 
 <br/><br/>
 
+-->
 <h2>GitHub Stats</h2>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylerDonghwi&theme=radical" alt="TylerDonghwi's GitHub streak" width="50%" />
