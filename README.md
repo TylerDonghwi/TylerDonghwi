@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tyler</h1>
 
 <h3>Connect me on LinkedIn!</h3>
-<a href="https://www.linkedin.com/in/tyler-kim-124410208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tyler-d-kim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 <!--
 <h2>About Myself</h2>
